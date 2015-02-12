@@ -1,12 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerPrefsScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FileIOScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerPrefsScript.cs" Line="12" Column="50" />
+      <File FileName="Assets/Scripts/PlayerPrefsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManagerScript.cs" Line="16" Column="4" />
+      <File FileName="Assets/Scripts/FileIOScript.cs" Line="42" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/sesa/Games/Unity/CodeLorb/CLClassFiles/Assets/Assets/Scripts/FileIOScript.cs" line="39" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
