@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PrintGameObjectInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PrintAllGameInfo.cs">
     <Files>
-      <File FileName="../Week4/Assets/Scripts/UtilScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PrintGameObjectInfo.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/PrintCubeInfo.cs" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/PrintSphereInfo.cs" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/PrintAllGameInfo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

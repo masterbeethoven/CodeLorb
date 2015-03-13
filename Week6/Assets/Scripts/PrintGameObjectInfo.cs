@@ -11,7 +11,7 @@ public class PrintGameObjectInfo : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		PrintInfo();
+		//PrintInfo();
 	
 	}
 
@@ -23,7 +23,8 @@ public class PrintGameObjectInfo : MonoBehaviour {
 	protected virtual string MakeInfoString(){
 		string infoString;
 
-		infoString = "Position: " + transform.position.ToString() + 
+		infoString = "Name: " + gameObject.name +
+			"Position: " + transform.position.ToString() + 
 				"\nRotation: " + transform.rotation +
 				"\nScale: " + transform.localScale;
 
