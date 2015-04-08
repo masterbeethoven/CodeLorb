@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{63995E86-0D87-3019-17BF-ED4525E36993}") = "Week6", "Assembly-CSharp.csproj", "{35824A3C-855F-EC8C-BBE3-7029F9427FA8}"
+Project("{EC7C6615-B968-8906-80BA-29C1392B7E7C}") = "3dhomework", "Assembly-CSharp.csproj", "{118A8C5D-CAD0-860B-9789-5635FE3C9C40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35824A3C-855F-EC8C-BBE3-7029F9427FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35824A3C-855F-EC8C-BBE3-7029F9427FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35824A3C-855F-EC8C-BBE3-7029F9427FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35824A3C-855F-EC8C-BBE3-7029F9427FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118A8C5D-CAD0-860B-9789-5635FE3C9C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118A8C5D-CAD0-860B-9789-5635FE3C9C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118A8C5D-CAD0-860B-9789-5635FE3C9C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118A8C5D-CAD0-860B-9789-5635FE3C9C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

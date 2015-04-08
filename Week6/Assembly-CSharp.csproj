@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Click3DScript.cs" />
      <Compile Include="Assets\Scripts\PrintAllGameInfo.cs" />
      <Compile Include="Assets\Scripts\PrintCubeInfo.cs" />
      <Compile Include="Assets\Scripts\PrintGameObjectInfo.cs" />
