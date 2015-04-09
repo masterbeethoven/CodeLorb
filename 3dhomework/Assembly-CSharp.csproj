@@ -46,7 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Assets\Scripts\LastPlaneFlipScript.cs" />
+     <Compile Include="Assets\Assets\Scripts\BobbingScript.cs" />
+     <Compile Include="Assets\Assets\Scripts\LastPlaneDeleteScript.cs" />
      <Compile Include="Assets\Assets\Scripts\LookAtScript.cs" />
      <Compile Include="Assets\Assets\Scripts\MovePlayerScript.cs" />
  <Reference Include="UnityEngine.UI">
